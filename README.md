@@ -1,34 +1,20 @@
-# 🚀 Xaitboyev Javlonbek — Portfolio Website
+I am Xaitboyev Javlonbek, a passionate 16-year-old web developer who loves creating modern and interactive websites. I started my journey in programming with a strong interest in technology and design, and now I focus on building responsive, fast, and visually impressive web applications.
 
-A premium, futuristic personal portfolio website built with React.js, Tailwind CSS, and Framer Motion.
+I specialize in React.js, JavaScript, Tailwind CSS, and modern frontend technologies. I enjoy turning creative ideas into real digital experiences with smooth animations, clean UI/UX, and professional performance.
 
-## ✨ Features
+My goal is to become a high-level full stack developer and work on powerful international projects. I am constantly learning new technologies, improving my skills, and exploring advanced web development concepts.
 
-- 🎨 Dark modern UI with neon blue/purple gradients
-- ⚡ Smooth animations with Framer Motion & GSAP
-- 🌊 Particle background with canvas WebGL
-- 🖱️ Custom cursor with hover effects
-- 📊 Scroll progress bar
-- ⌨️ Animated typing effect
-- 💎 Glassmorphism design
-- 📱 Fully responsive (mobile, tablet, desktop)
-- 🌙 Dark/Light mode toggle
-- 📬 EmailJS contact form
-- 🎠 Swiper testimonials slider
-- 🔢 Animated statistics with CountUp
-- 🏷️ Project filtering system
-- ⏱️ Loading screen animation
-- 🎯 SEO optimized
+I love building futuristic websites, experimenting with animations, and creating unique user experiences that stand out. Coding is not just my hobby — it is my passion and future career.
 
-## 🛠️ Tech Stack
+Skills:
+- React.js
+- JavaScript (ES6+)
+- Tailwind CSS
+- HTML5 & CSS3
+- Responsive Web Design
+- Git & GitHub
+- API Integration
+- UI/UX Design
+- Framer Motion Animations
 
-- **React.js** — UI library
-- **Vite** — Build tool
-- **Tailwind CSS** — Utility-first styling
-- **Framer Motion** — Animations
-- **React Icons** — Icon library
-- **Swiper.js** — Testimonials slider
-- **React Fast Marquee** — Tech stack marquee
-- **React CountUp** — Animated numbers
-- **EmailJS** — Contact form
-- **React Scroll** — Smooth scrolling
+“Every great developer starts with curiosity and consistency.”
